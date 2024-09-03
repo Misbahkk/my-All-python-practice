@@ -1,0 +1,11 @@
+"happy": "antonyms": "sad", "unhappy", "miserable", "synonyms": "joyful", "elated", "pleased"],"meaning": "Feeling or showing pleasure or contentment ","Example sentence" : "She was so happy to see her best friend after a long time"
+    ,
+"big":"antonyms": "small", "tiny", "little","synonyms": "large", "huge", "enormous","meaning": "Of considerable size, extent, or capacity ",Example sentence": "The elephant was big enough to block the entire road"
+
+    ,
+"smart": "\nantonyms": "stupid", "unintelligent", "ignorant","\nsynonyms": "intelligent", "clever", "bright","meaning": "Having or showing quick-witted intelligence ","Example sentence": "He is a smart kid who always gets good grades in school."
+    ,
+"hot": "antonyms": "cold", "cool", "chilly","synonyms": "warm" , "meaning": "Having a high degree of heat or a high temperature \n" ,"Example sentence": "The soup was too hot to eat right away."
+    ,
+"brave": "antonyms": "cowardly", "synonyms": "courageous" ,"meaning": "Ready to face and endure danger or pain; showing courage \n","Example sentence": "The firefighter was very brave to enter the burning building to save the people trapped inside."
+    

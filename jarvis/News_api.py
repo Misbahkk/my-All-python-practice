@@ -82,7 +82,7 @@ import requests
 
 def get_pakistani_news_headlines():
     # Replace 'YOUR_API_KEY' and 'YOUR_NEWS_API_URL' with the actual API key and URL.
-    api_key = '5490dd781fae4accabe00d13ef05a715'
+    #api_key = '5490dd781fae4accabe00d13ef05a715'
     news_api_url = 'https://newsapi.org/v2/top-headlines?country=pk&category=business&apiKey=5490dd781fae4accabe00d13ef05a715'
 
     try:

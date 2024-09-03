@@ -41,8 +41,8 @@ def kel_to_cel_fahre(kelvin):
 
 def weather_info(city):
     # city_name = "matli"
-    data = requests.get("https://api.openweathermap.org/data/2.5/weather?q=" +
-                        city + "&appid="+weather_apikey).json()
+   # data = requests.get("https://api.openweathermap.org/data/2.5/weather?q=" +
+          #              city + "&appid="+weather_apikey).json()
 
     temp_kelvin = data['main']['temp']
     temp_celsius, temp_fahrenheit = kel_to_cel_fahre(temp_kelvin)

@@ -1,0 +1,9 @@
+api example/config.py
+jarvis/config.py
+*.log
+/node_modules/
+/build/*
+!/build/important-file.txt
+__pycache__/
+*.pyc
+*.pyo
